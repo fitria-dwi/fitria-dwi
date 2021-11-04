@@ -14,8 +14,8 @@ Currently I am open to any opportunity especially in Data as a Data Analyst, and
     - 😄 Pronouns: Her </br>
     - ⚡ Fun fact: ... </br>
 </details>
-    <img src="https://github-readme-stats.vercel.app/api?username=rezadilla&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadilla&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=fitria-dwi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitria-dwi&layout=compact" height=180 />
 
 
  ## Let's Connect!
