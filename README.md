@@ -6,14 +6,9 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you
 ## Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning ... </br>
-    - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="wulan391@sci.ui.ac.id">Email me!</a>
-    - 😄 Pronouns: Her </br>
-    - ⚡ Fun fact: ... </br>
+    - 🔭 I'm currently working on several independent projects </br>
+    - 🌱 I’m currently learning SQL </br>
+    - 😄 Pronouns: She/Her </br>
 </details>
     <img src="https://github-readme-stats.vercel.app/api?username=fitria-dwi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitria-dwi&layout=compact" height=180 />
