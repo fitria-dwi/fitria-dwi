@@ -1,4 +1,4 @@
-# Hi there, I'm Fitria Dwi Wulandari!👋
+# Hi there, I'm Wulan!👋
 I am Passionate about statistics, data, machine learning, and open to any opportunity especially in Data as a Data Analyst, and Data Scientist.
 I'm still learning, and I am open to any feedback and suggestion. Thank you
 
