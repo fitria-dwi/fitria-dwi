@@ -1,6 +1,6 @@
 # Hi there, I'm Wulan!👋
 I am passionate about statistics, data, machine learning, and open to any opportunity especially in Data as a Data Analyst, and Data Scientist.
-I'm still learning, and I am open to any feedback and suggestion. Thank you
+I'm still learning, and I am open to any feedback and suggestion. Thank you.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Stats:
