@@ -11,7 +11,7 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you.
     - 😄 Pronouns: She/Her </br>
 </details>
     <img src="https://github-readme-stats.vercel.app/api?username=fitria-dwi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitria-dwi&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitria-dwi&layout=compact" height=200 />
 
  ## Let's Connect!
  <p>
