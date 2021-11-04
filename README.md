@@ -13,7 +13,6 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you.
     <img src="https://github-readme-stats.vercel.app/api?username=fitria-dwi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitria-dwi&layout=compact" height=180 />
 
-
  ## Let's Connect!
  <p>
   <a href="https://www.linkedin.com/in/fitriadwi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
