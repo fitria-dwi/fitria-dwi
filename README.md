@@ -21,7 +21,7 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you
 
  ## Let's Connect!
  <p>
-  <a href="https://https://www.linkedin.com/in/fitriadwi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/fitriadwi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="mailto:wulan391@sci.ui.ac.id" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>     
   <a href="https://instagram.com/u.lann" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
