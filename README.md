@@ -9,7 +9,6 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you.
 </p>
 
 ## Stats:
-## Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
    - 🔭 I'm currently working on several independent projects. </br>
