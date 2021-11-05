@@ -1,4 +1,4 @@
-# Hi <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>, I'm Wulan ![](https://visitor-badge.glitch.me/badge?page_id=fitria-dwi.fitria-dwi)
+# Hi <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>, I'm Wulan !
 I am passionate about statistics, data, machine learning, and open to any opportunity especially in Data as a Data Analyst, and Data Scientist.
 I'm still learning, and I am open to any feedback and suggestion. Thank you.
 
