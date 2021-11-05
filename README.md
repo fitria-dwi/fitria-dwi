@@ -8,7 +8,6 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you.
   <a href="https://instagram.com/u.lann" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------
 ## Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
