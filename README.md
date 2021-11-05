@@ -14,7 +14,6 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you.
    - 🔭 I'm currently working on several independent projects. </br>
    - 🌱 I’m currently learning SQL. </br>
 </details>
-
     <p align=center>
   <a href="#" title="Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=fitria-dwi&show_icons=true&theme=gotham">
