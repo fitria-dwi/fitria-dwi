@@ -1,4 +1,4 @@
-# Hi, I'm Wulan <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
+# <p align=center> Hi, I'm Wulan <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
 I am passionate about statistics, data, machine learning, and open to any opportunity especially in Data as a Data Analyst, and Data Scientist.
 I'm still learning, and I am open to any feedback and suggestion. Thank you.
 
@@ -14,6 +14,7 @@ I'm still learning, and I am open to any feedback and suggestion. Thank you.
    - 🔭 I'm currently working on several independent projects. </br>
    - 🌱 I’m currently learning SQL. </br>
 </details>
+
     <p align=center>
   <a href="#" title="Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=fitria-dwi&show_icons=true&theme=gotham">
