@@ -1,6 +1,5 @@
 # <p align=center> Hi, I'm Wulan <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
-I am passionate about statistics, data, machine learning, and open to any opportunity especially in data as a Data Analyst, and Data Scientist.
-I'm still learning, and I am open to any feedback and suggestion. Thank you.
+I’m a statistics graduate from Universitas Indonesia. As a statistics graduate, I am used to collecting, interpreting, and analyzing data. I have always loved working with data because I love the thrill of looking deeper to uncover insight and find solutions through data. With my comprehensive foundation in data, I am ready to tackle more challenges and thrive in data analytics. Thank you.
 
  <p align=center>
  <a href="mailto:wulan391@sci.ui.ac.id" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
