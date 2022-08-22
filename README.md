@@ -1,5 +1,7 @@
 # <p align=center> Hi, I'm Wulan <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
-I’m a statistics graduate from Universitas Indonesia. As a statistics graduate, I am used to collecting, interpreting, and analyzing data. I have always loved working with data because I love the thrill of looking deeper to uncover insight and find solutions through data. With my comprehensive foundation in data, I am ready to tackle more challenges and thrive in data analytics. Thank you.
+A graduate in Statistics with hands-on data analytics experience. Passionate about data analytics, transforming data into actionable insight to elevate business strategy. Strong technical skills, including experience with Microsoft Excel, Google Data Studio, Python, R, SPSS, SQL, and Tableau. Previous internship experience in education learning provider practicing customer segmentation for the loyalty program. Possess excellent time management skills and the ability to work independently or in a team. 
+
+With my comprehensive foundation in data, I am ready to tackle more challenges and thrive in data analytics. Reach me out through:
 
  <p align=center>
  <a href="mailto:wulan391@sci.ui.ac.id" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
