@@ -1,5 +1,5 @@
 # <p align=center> Hi, I'm Wulan <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
-A graduate in Statistics who always expands experience and knowledge. Highly motivated and detail-oriented individual who has an interest in the data analytics field, such as Business Intelligence, Data Analyst, and Data Scientist. Proven abilities to translate information and present data findings using graphics for diverse groups of people. Possess a strong foundation in data analysis, visualization, and reporting. Strong organizational skills and the ability to work independently or in a team.
+A graduate in Statistics who always expands experience and knowledge. Highly motivated and detail-oriented individual who has an interest in the data analytics field, such as Business Intelligence, Data Analyst, and Data Scientist. Possess a strong foundation in data analysis, visualization, and reporting. Acquired skills in Microsoft Excel, Python, RStudio, SPSS, SQL, and Tableau. Proven abilities to translate information and present data findings using graphics for diverse groups of people. Strong organizational skills and the ability to work independently or in a team. 
 
 With my comprehensive foundation in data, I’m ready to tackle more challenges and thrive in data analytics. Reach me out through:
 
