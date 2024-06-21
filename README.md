@@ -9,7 +9,7 @@ A graduate in Statistics dedicated to continually expanding experience and knowl
 ## Stats:
 <details>
  <summary><strong>What i am learning or working on these days</strong></summary>
-   - 🔭 I'm currently working on several independent projects. </br>
+   - 🔭 I'm currently working on several personal projects. </br>
    - 🌱 I’m currently learning Google Tag Manager and Google Analytics 4. </br>
 </details>
     <p align=center>
