@@ -1,7 +1,5 @@
 # <p align=center> Hi, I'm Wulan <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
-A graduate in Statistics who always expands experience and knowledge. Highly motivated and detail-oriented individual who has an interest in the data analytics field, such as Business Intelligence, Data Analyst, and Data Scientist. Possess a strong foundation in data analysis, visualization, and reporting. Acquired skills in Microsoft Excel, Python, RStudio, SPSS, SQL, and Tableau. Proven abilities to translate information and present data findings using graphics for diverse groups of people. Strong organizational skills and the ability to work independently or in a team. 
-
-With my comprehensive foundation in data, I’m ready to tackle more challenges and thrive in data analytics.
+A graduate in Statistics dedicated to continually expanding experience and knowledge. Highly motivated and detail-oriented individual with a keen interest in data analytics, including roles such as data analyst, data scientist, and business intelligence. Possesses a solid foundation of data analysis, visualization, and reporting, complemented by proficiency in Microsoft Excel, Python, RStudio, SPSS, SQL, and Tableau. Proven abilities to translate information and present data findings using graphics for diverse groups of people. With strong organizational skills and the ability to work independently and collaboratively, ready to embrace new challenges and thrive in data analytics.
 
  <p align=center>
  <a href="mailto:wulan391@sci.ui.ac.id" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
